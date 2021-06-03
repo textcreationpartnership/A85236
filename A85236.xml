@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before His Majesty at Newport in the Isle of VVight, November the 29. 1648. being the Fast-day. By H. Ferne, D.D.</title>
+            <author>Ferne, H. (Henry), 1602-1662.</author>
+         </titleStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85236</idno><idno type="EEBO-CITATION">99864754</idno>
+  <idno type="VID">116986</idno>
+  <idno type="EEBO-PROQUEST">2240915801</idno>
+  
+            <idno type="STC">Wing F806</idno>
+            <idno type="STC">Thomason E473_38</idno>
+            <idno type="STC">ESTC R205349</idno>
+            <idno type="PROQUEST">99864754</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864754e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116986)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before His Majesty at Newport in the Isle of VVight, November the 29. 1648. being the Fast-day. By H. Ferne, D.D.</title>
+                  <author>Ferne, H. (Henry), 1602-1662.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston in Ivie-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1648"; the 9 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116986:1"/>
+            <p>
+               <hi>A</hi> SERMON PREACHED BEFORE <hi>HIS MAJESTY</hi> AT NEWPORT in the Isle of VVIGHT, <hi>November the</hi> 29. 1648. being the <hi>Fast-day.</hi>
+            </p>
+            <p>By H. FERNE, D. D.</p>
+            <p>
+               <hi>LONDON.</hi> printed for <hi>R. Royston</hi> in Ivie-lane. 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:116986:2"/>
+            <p>
+               <hi>Reader,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon had the fate to be last, that was Preached before His late Majesty, and the honour not long after (how worthlesse soever in its selfe) to be call'd for by Him, that He might looke upon it in the Copy. It is not to gaine credit abroad, that now it offers it selfe to publique view, but to doe that most Gracious Prince so much right, as to let thee, who ever thou art (though but occasionally) un<g ref="char:EOLhyphen"/>derstand, how good a Christian He was, most constant in observing His times for such duties, very attentive in hea<g ref="char:EOLhyphen"/>ring, and carefully mindfull of what he heard. When in <hi>Carisbrook-Castle</hi> He was put under Closer restraint, and deprived of the Service of His Chaplains, He call'd to mind what He had heard from them, and required the Copies of two Sermons there Preached before Him. And when againe He was removed to <hi>Hurst-Castle,</hi> He carried with Him the remembrance of what He had heard at <hi>Newport,</hi> and laid hold on the first opportunity of gaining a Copy of This, as (haply) most suitable to the then distressed condition of Himselfe and His People. For though He had a great trea<g ref="char:EOLhyphen"/>sure of knowledge within Himselfe, yet vouchsafed He to make use of such meane helps from without, if not to en<g ref="char:EOLhyphen"/>crease, yet the better to actuate that knowledge. What therefore in this Sermon thou shalt read of Affliction, Faith, Patience, Waiting upon God, and then of Gods not tarrying,
+<pb facs="tcp:116986:3"/>or being behind hand with a deliverance, thou maist see in this great King, as in a Mirror; who having despised an Earthly Crowne, and in stead of that, borne with singular patience a Crowne of <hi>Thornes,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ioh. 19.5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 Pet. 5.4.</note> that was platted on His head; doth now in stead of both, weare a Crowne of <hi>Ama<g ref="char:EOLhyphen"/>ranthus,</hi> that Crowne of glory, that fadeth not away. And if thou canst not by this Sermon, yet by this great Example learne, what it is to wait upon God for the receiving a De<g ref="char:EOLhyphen"/>liverance in such a way as he in his wisdome and goodnesse sees best for us. <hi>To his Mercy and Grace I commend thee.</hi>
+            </p>
+            <closer>
+               <signed>H. F.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:116986:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>HABAK. 2.3.</hi>
+               </bibl>
+               <q>Though it tarry, wait for it, because it will surely come, it will not tarry.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Prophet, inthe former Chapter, had a foresight of what the <hi>Chaldeans</hi> would doe to Gods people; and here he would fain have a sight of their deliverance. We find him there sore troubled to see all go contrary, not onely to his desire, but, as he then thought, to the course of Divine Providence, and rule of Justice: and thereupon enters into a reason<g ref="char:EOLhyphen"/>ing with God: <hi>Thou canst not look on iniquity; wherefore lookest thou upon them that deale treacherously, and holdest thy tongue, when the Wicked devoureth the man, that is more righteous then he?</hi>
+            </p>
+            <p>But leaving such complaints as far below a Prophet, or wel-resolved mind, he raises himself above the pitch of sense or carnall reason, which could not see to the end of these straits; gets up to his <hi>Watch tower</hi> (the ascent of the Soule to God by meditation and prayer) to his <hi>Watch-tower,</hi> where he might have a more free prospect
+<pb n="2" facs="tcp:116986:4"/>of Heaven, &amp; discover what relief towards. There he sets himself (<hi>ver.</hi> 1.) looking upward, and hearkning, what token for good, what answer for instruction and com<g ref="char:EOLhyphen"/>fort, that he might have, wherewith to satisfie himself, <hi>and those that argued with him,</hi> touching the administra<g ref="char:EOLhyphen"/>tion of things below; to the questioning of Innocency that suffered, or the Justice of Providence that did per<g ref="char:EOLhyphen"/>mit it.</p>
+            <p>Thus waiting and expecting, he is not long without an Answer; it comes in the next Verse, <hi>And the Lord answered me, the Vision is for an appointed time.</hi> And now, that he may use the like patience in looking for the performance, as he did in staying for the Answer, there comes advise upon it, <hi>Wait,</hi> yea, <hi>though it tarry, wait</hi> (and good reason) <hi>because it will surely come;</hi> and till it come, <hi>the just Man shall live by his faith:</hi> He that holds on the course of innocency, committing his way to God and depending upon him for the issue, <hi>shall live,</hi> outlive the evill day, or be taken from it, and have the shortnesse of this life lengthned out with eternity.</p>
+            <p>I need not speak, how we are concerned in all this, our condition is not unlike, and, I suppose, our doubtings, our reasonings, our desires are not much unlike: Every one ready to complaine and ask, why is it thus with us? when shall we see an end of these troubles? when find ease and safety? Now if any of you call to this Pro<g ref="char:EOLhyphen"/>phet upon his Watch, as they to him in that other Pro<g ref="char:EOLhyphen"/>phet,
+<note place="margin">Isa. 21.11.</note>
+               <hi>Watchman, what of the night? what of the night?</hi> this night of calamity that hang's over the Land, and darkens the Heavens thereof? ye may receive answer as they did there, <hi>the morning commeth and also the night;</hi> a continuance of calamities so long as ye are not what ye should be, <hi>but if ye will enquire, enquire, and returne.</hi> It
+<pb n="3" facs="tcp:116986:4"/>is the advice there given from the Watch-man. If as ye earnestly desire a removall of these evils, so will indeed <hi>enquire,</hi> and seek after the remedy as ye ought, then <hi>re<g ref="char:EOLhyphen"/>turne</hi> and follow the example of this Prophet, draw off your thoughts and desires a little from below, and di<g ref="char:EOLhyphen"/>rect them more steadily towards Heaven for an answer of peace. This Prophet had it, and so may we to the like instruction and comfort, He received it, as an assu<g ref="char:EOLhyphen"/>rance of the restoring that People from Captivity: and we receive it as applied by the Apostle to the strength<g ref="char:EOLhyphen"/>ning of our patience,
+<note place="margin">Heb. 10.36, 37.</note> and the assuring of our hope and comfort. If we <hi>wait,</hi> we shall find, it will <hi>not tarry.</hi>
+            </p>
+            <p>The Instruction here is, <hi>Wait,</hi> given us upon a suppo<g ref="char:EOLhyphen"/>sition, <hi>though,</hi> or <hi>if it tarry;</hi> and that seems presently to be taken away, by a <hi>not tarry; Though it tarry,</hi> and <hi>it will not tarry,</hi> what's that? Not much unlike to what our Saviour said to his Disciples,
+<note place="margin">Ioh. 16.16.</note>
+               <hi>yet a little while and ye shall not see me; and againe a little while and ye shall see me:</hi> they knew not well what to make on't: and yet our Saviour was there providing for their comfort, as the Prophet is here for ours: He tells them, he must be taken from them by death for a while, but that they should not take it grievously, he assures them after a little while (it was but having three daies patience) he would see them againe: And we are here told, if the expected deliverance seem to <hi>tarry,</hi> we must have the pa<g ref="char:EOLhyphen"/>tience to <hi>wait</hi> awhile, <hi>for it will not tarry</hi> beyond the due time.</p>
+            <p>The differencing of the first and second <hi>tarry,</hi> will clear the businesse. In the originall the words are divers: and the <hi>Septuagint</hi> has rendred them by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and accordingly the Latine by <hi>moram fecerit,</hi> and <hi>tardabit;</hi> the one implying a stay or length of time; the other, a
+<pb n="4" facs="tcp:116986:5"/>falling short or coming after the time: so <hi>Heb.</hi> 4.1. <hi>Lest any of you seem to come short of it,</hi> the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> so here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>will not tarry,</hi> not come after due time.</p>
+            <p>We have then three parts considerable,
+<list>
+                  <item>I. The Supposition, <hi>Though, or if it tarry.</hi>
+                  </item>
+                  <item>II. Advice upon it for patience, <hi>Wait.</hi>
+                  </item>
+                  <item>III. An Assurance for the upholding of our pa<g ref="char:EOLhyphen"/>tience, a double prop for it, <hi>Certainty,</hi> it <hi>will sure come;</hi> and <hi>Seasonablenesse, it will not tarry,</hi> not after the time God sees fit, not stay after we are fit for it.</item>
+               </list>
+            </p>
+            <p n="1">I. The Supposition <hi>(though, or if it tarry)</hi> takes no<g ref="char:EOLhyphen"/>thing off from the certainty and strength of the Assu<g ref="char:EOLhyphen"/>rance, but is a condiscention to our weaknesse, to our apprehension of Gods dealing with us: We are often at a stand in considering the administration of Providence, and cannot readily solve the seeming contradictions we meet with. We find it often said of Iniquity, that <hi>it shall not prosper,</hi> and yet we often see it doth; and here of the time of deliverance that <hi>it will not tarry,</hi> and yet we see, and feel (to our grief) that it doth; When as indeed the failing is not in Gods justice or power, but in our per<g ref="char:EOLhyphen"/>formance of duty: not in his wisdome that fitly disposes all, but in our blindnesse that cannot see in our infirmity that cannot hold out its time. This, <hi>if,</hi> or <hi>though,</hi> alters nothing in Gods time, but provides for our weaknesse and makes way for the following advice, <hi>wait.</hi> Gods time is certaine, but <hi>if it tarry,</hi> if it seem so to our sense and judgment, to our desires which are impatient of de<g ref="char:EOLhyphen"/>lay, then take instruction upon it, <hi>wait.</hi>
+            </p>
+            <p>Flesh and bloud weary of restraint, looks out for re<g ref="char:EOLhyphen"/>liefe,
+<pb n="5" facs="tcp:116986:5"/>as <hi>Sisera's</hi> Mother from the windows, <hi>Jud.</hi> 5. <hi>cry<g ref="char:EOLhyphen"/>ing, why doe the wheels of his Chariot tarry? why is he so long in coming?</hi> she returned answer to her self, such as best pleased her, and so will flesh and bloud if hearkned to in its complaints, give such answer as that impatient one, 2 <hi>Kings</hi> 6. <hi>ult. Why should we wait for the Lord any longer?</hi> or take up such a resolution as the servant did, <hi>Mat.</hi> 24. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his <hi>Lord tarried,</hi> stayed long, and therefore he tooke his liberty, to drink with the drunken, and to fight with his fellow Servants: so would flesh and bloud, if left to it self, give it self over to licen<g ref="char:EOLhyphen"/>tious courses, entertaine it self with sinfull pleasures, to allay or deceive the irksomenesse of this <hi>tarrying,</hi> this prolonged time; but here is better advice, <hi>wait for it,</hi> yea, <hi>though it seem to tarry, wait.</hi>
+            </p>
+            <p n="2">II. The advice is for Patience, <hi>Wait.</hi> Stay for it, till it comes, we must, whether we will or no, that's a neces<g ref="char:EOLhyphen"/>sity imposed on us; but <hi>wait</hi> for it, till it come, that's a duty required of us: That it may not therefore be Patience perforce, but <hi>patientia vestra,
+<note place="margin">Luk. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> in your patience possesse your soules,</hi> as our Saviour bids his Disciples, such a patience as beseems a Disciple of Christ, in a self<g ref="char:EOLhyphen"/>deniall, and humble dependance upon God, consider we what instruction is given us in this, <hi>wait.</hi>
+            </p>
+            <p>Saint <hi>Cyprian</hi> used to say of the heathen Philosophers, <hi>Ut sapientia, sic patientia,</hi> such as their wisdome or knowledge of divine things was, such was their pati<g ref="char:EOLhyphen"/>ence: and indeed some of them went far in this point of suffering and self-deniall (as I may call it) <hi>Ut nudi nudam veritatem sequerentur,</hi> (as <hi>Lactantius</hi> of them) that stript of all encumbrances, they might more readi<g ref="char:EOLhyphen"/>ly follow after and overtake the naked truth; yet be<g ref="char:EOLhyphen"/>cause
+<pb n="6" facs="tcp:116986:6"/>their knowledge could not reach what we have for instruction and comfort from Gods word; their pati<g ref="char:EOLhyphen"/>ence also fell short of a <hi>patientia vestra,</hi> such a patience as becomes a Disciple, a Christian, such a patience whereby we <hi>may possesse our soules,</hi> keep them to our owne and Gods use, not breathing them out in Com<g ref="char:EOLhyphen"/>plaints of impatience, or pawning them upon a finfull bargaine, for a little advantage of present ease or profit.</p>
+            <p>Let us then briefly examine the contents of this ad<g ref="char:EOLhyphen"/>vice delivered in one word, <hi>Wait: waiting</hi> is the expe<g ref="char:EOLhyphen"/>ctation of hope, and the induring of patience according to the Apostle,
+<note place="margin">Rom. 8.25.</note>
+               <hi>If we hope for that we see not, then doe we with patience wait for it:</hi> for he that expects a delive<g ref="char:EOLhyphen"/>rance, saies, he hopes, but implies he is under present di<g ref="char:EOLhyphen"/>stresse, and so needs patience to continue and hold on his hope.
+<note place="margin">Iames 1.4.</note> Now <hi>that patience</hi> (as Saint <hi>James</hi> saith) <hi>may have her perfect worke</hi> in our <hi>waiting,</hi> we must so reflect upon the present Calamities, and so expect the delive<g ref="char:EOLhyphen"/>rance, that we looke at God, as at him, who has been highly provoked, as at him to whom we owe the greatest duty; as at him, who is able to help, when all meanes faile: and so to <hi>wait,</hi> with hearts truly humbled, and hearts truly resolved, as for obedience to, so for depen<g ref="char:EOLhyphen"/>dance upon God. If thus, <hi>wait,</hi> we shall not be long without an answer of peace, <hi>it will not tarry</hi> after we so prepared.</p>
+            <p n="1">1. <hi>Wait,</hi> with hearts humbled, cast down in sense of former provocations; that's the posture we must <hi>wait</hi> in. It has been Gods work upon us in these times of affliction to bring our hearts to this bent, and it is our present profession this day in our appearing before him: when I look about me I seem to see as the Prophet <hi>Je<g ref="char:EOLhyphen"/>remy</hi> did,
+<note place="margin">Ier. 30.6.</note>
+               <hi>every man with his hands on his loines as a Wo<g ref="char:EOLhyphen"/>man
+<pb n="7" facs="tcp:116986:6"/>in her travaile: Does a man travaile with child?</hi> saies the Prophet there: No: but with earnest desire of deliverance: and is in pain till that time come. Every one of us indeed sensible enough of the present distresse, feels where it pinches him in estate, liberty, or losse of any thing desirable: but we must drive home the sense of these calamities to an apprehension of Gods wrath, &amp; tremble under it as provoked by our sins. If outward affliction be the thorne now in our flesh, the Conscience of sinne must be the sting in the soule to make it duly sensible, as of the punishment, so of the provocation: for this we find the Psalmist often mingling the remembrance of his sinne with the mention of his sufferings, <hi>Innumerable evils are come about me, and mine iniquities have taken hold upon me, Psal.</hi> 40.12. so <hi>Psal.</hi> 38.17, 18. and els<g ref="char:EOLhyphen"/>where: No patient waiting without this acknowledge<g ref="char:EOLhyphen"/>ment which stops every mouth, and silences all passio<g ref="char:EOLhyphen"/>nate complaints, <hi>I held my peace</hi> (saith he again, <hi>Ps.</hi> 39.) <hi>for it was thy doing, thou with rebukes dost chasten man for sin;</hi> and the Prophet <hi>Jeremy</hi> in his <hi>Lament.</hi> shews us the first posture of the man <hi>that waits for the salvation of the Lord: He sits alone, keepeth silence,
+<note place="margin">Lam. 3.26, 28, 29.</note> and putteth his mouth in the dust.</hi> So <hi>wait,</hi> with hearts truly humbled, cast down in sense of former, and still continued provo<g ref="char:EOLhyphen"/>cations.</p>
+            <p n="2">2. <hi>Wait,</hi> with hearts truly resolved first for obedi<g ref="char:EOLhyphen"/>ence; Humiliation is the profession of this daies meeting &amp; service, Amendment of life is the promise of it; a du<g ref="char:EOLhyphen"/>ty indeed required of every one <hi>that names the name of Christ, that he depart from iniquity;</hi>
+               <note place="margin">2 Tim. 2.10.</note> and will be found anon the necessary condition of the <hi>not tarrying</hi> of a de<g ref="char:EOLhyphen"/>liverance; But the Obedience which I would now mind you of, respects the present exigence of time: as now we
+<pb n="8" facs="tcp:116986:7"/>look to God from whom we implore a blessing upon the <hi>Treaty,</hi> and expect a deliverance: If it come to this strait that we must quit the duty God requires of us, or lose what man offers us, then not to stand fixt and resolved, for obedience is not to <hi>wait</hi> upon God, but at<g ref="char:EOLhyphen"/>tend Mans pleasure.</p>
+            <p>In 1 of <hi>Sam. c.</hi> 6. we have an experiment made of two new-milcht Kine, drawing the Arke of God; and in that an embleme of our weak nature, groaning under the trial of obedience, to which he puts us: Two lets or hin<g ref="char:EOLhyphen"/>drances there were of their going forward: Their Calves left behind, and they never bore Yoke; <hi>Gemunt, sed pergunt,</hi> saith <hi>Jerome</hi> of them, they go lowing by the way because divided from their Calves, yet on they go because they carried the Arke of God: Grievous it is to flesh and bloud to be severed from what it delights in, and in stead thereof to bear the unaccustomed yoke; yet because the burden now lying upon us is the Arke of God, his Truth, his interest; <hi>Gemimus, sed pergi<g ref="char:EOLhyphen"/>mus,</hi> we groan because we cannot have what we earnest<g ref="char:EOLhyphen"/>ly desire, yet we go on, because it is our duty; and re<g ref="char:EOLhyphen"/>solved for that, we <hi>wait:</hi> And which may strengthen this resolution,
+<note place="margin">Psal. 55.22.</note> we have a God <hi>to cast our burden upon,</hi> as the Psalmist advises us, to cast it and our selves upon the Lord, in a dependance upon him that is able to bring it to passe.</p>
+            <p n="3">3. Therefore <hi>wait,</hi> resolved for a depending on him. We should look up to God at all times in an humble dependance, even when outward means are at highest, look above them to him that does <hi>not alwaies give the successe of battell to the strong, nor of the race to the swift,</hi>
+               <note place="margin">Eccles. 9.11.</note> as the Preacher tells us: but when all visible help ceases from man, then eyes and heart up to Heaven in more
+<pb n="9" facs="tcp:116986:7"/>then ordinary dependance, as the work of deliverance which we expect is more then ordinary, a work <hi>for his own right hand and holy arme,</hi> as <hi>Psal.</hi> 98.1. A depen<g ref="char:EOLhyphen"/>dance this is, which puts all humane expedients and po<g ref="char:EOLhyphen"/>licies in a subordination to Gods providence, taking a rule for them from his will, and expecting the issue from his all disposing wisdome and power: And when no expedient is left us, consistent with his will, then wholly to commit the businesse to his wisdome and power to bring it to passe. But he that will provide for his safety without God, does not <hi>wait</hi> for him, but seeks to pre<g ref="char:EOLhyphen"/>vent him, and anticipate the time of deliverance; the way indeed to be disappointed by him. This is <hi>the Soul</hi> which in the next Verse, <hi>is lifted up,</hi> not through pride in prosperity, but through the confidence of carnall safeguard in times of calamity; the Soule which then makes not God its refuge, but lifts it self up upon a fen<g ref="char:EOLhyphen"/>ced Tower, (as the word fignifies) on fortifications of its own raising; provides, by what means it can, for cafe and safety in despight of God and a good Consci<g ref="char:EOLhyphen"/>ence. That <hi>soule is not upright,</hi> as it there follows, is not grounded upon <hi>right</hi> principles, nor will ever be <hi>right</hi> in it self, but unsteady, discomposed, misse of that ease and safety it promised to it self.</p>
+            <p>When therefore the visible condition of our safety comes to a quitting of duty, and so to a cutting us off from our dependance on God,
+<note place="margin">Isa. 37.10.</note> when to a <hi>Let not thy God in whom thou trustest deceive thee,</hi> as <hi>Senacherib</hi> to <hi>Hezekiah</hi> when he imposed conditions on him: <hi>then up to the Lord</hi> by Prayer as that good King did, spread the papers before him, (as he also did) make him Judge in the Cause, and the Avenger of it; and let every Chri<g ref="char:EOLhyphen"/>stian heart say as the same <hi>Hezekiah</hi> in another extre<g ref="char:EOLhyphen"/>mity,
+<pb n="10" facs="tcp:116986:8"/>
+               <hi>Lord undertake for me:</hi>
+               <note place="margin">Isa. 38.14.</note> or as the great Father of the faithful did in his greatest trial,
+<note place="margin">Gen. 22.8.</note> cast himself upon a <hi>Deus providebit,</hi> his Sonne put him to a great strait when he asked, <hi>my Father, where's the Lamb for a burnt offering? Abraham's</hi> knowledge would not give the answer, therefore his faith makes one, <hi>my Son, God will provide;</hi> and in that faith and dependance he <hi>waits</hi> for the issue: And the same God has still within the compasse of his providence something which may stand us in stead, may be for the relief of those that <hi>wait;</hi> that thus <hi>wait,</hi> with hearts humbled, hearts resolved for obedience, for de<g ref="char:EOLhyphen"/>pendance; and which may confirme us in our so <hi>wai<g ref="char:EOLhyphen"/>ting,</hi> an Assurance follows in the last place.</p>
+            <p n="3">III. The Assurance, <hi>it will surely come.</hi> But for hope the heart would burst with groaning, and the eyes faile with waiting, looking for the salvation of God. To stay our hope, to hold on our expectation and <hi>waiting,</hi> here's Certainty, <hi>it will surely come;</hi> yea, but if it be long in coming it may much shake our patience; therefore is added, <hi>it will not tarry</hi> not longer then convenient, not after we are fit for it; <hi>It will come certainly,</hi> it will come <hi>seasonably.</hi>
+            </p>
+            <p n="1">1. The Certainty, <hi>surely come.</hi> To assure that, we have his justice and his truth engaged, it is just and righteous for him to deliver from unjust oppression, and therefore he will doe it, he has also promised it, and therefore will performe, <hi>it will speak in the end, and will not lie,</hi> as it is said in the words before the Text.</p>
+            <p>We have the engagement of his Justice upon a double respect, as he holds himself bound to appear for Inno<g ref="char:EOLhyphen"/>cency, and against oppression; to vindicate the one, and punish the other, you have both, 2 <hi>Thes.</hi> 1.6, 7.
+<pb n="11" facs="tcp:116986:8"/>
+               <hi>Justum est Deo, it is just with God to recompence tribulation to them that trouble you, but to you that are troubled, rest,</hi>
+               <note place="margin">Ier. 51.56.</note> for this he is called <hi>the Lord God of recompences,</hi> and is said, that <hi>he will surely requite.</hi> Both sorts of recom<g ref="char:EOLhyphen"/>pences, <hi>dispunctio utriusque meriti,</hi> as <hi>Tert.</hi> phrases it, the severing of good and evill in the retribution of either belongs to this just God, and as sure as he is just he will do it, <hi>he will surely requite.</hi>
+            </p>
+            <p>Hence is it, that the Psalmist, who omits no argument (which may move God to grant him what he desires) often grounds his plea upon his own righteousnesse or innocency, and upon Gods righteousnesse or Justice, knowing this to be engaged for the defence of that <hi>Judgement,
+<note place="margin">Psal. 7.8. &amp; 18.20. Ps. l. 71.2.</note> or recompence me</hi> (sayes he) <hi>according to my righteousnesse,</hi> and <hi>deliver me in thy righteousnesse; Ac<g ref="char:EOLhyphen"/>cording to my righteousnesse</hi> which I have shewn to them that hate and persecute me without a cause; and <hi>in thy righteousnesse,</hi> which thou usest to shew in defending them that walk uprightly, in delivering those that waite for thee: It is just and righteous with God to appear for oppressed innocency, and as sure as he is just he will do it.</p>
+            <p>We have his truth also engaged for it, he has pro<g ref="char:EOLhyphen"/>mised it, and will performe it, in respect to which it is said in the foregoing words, <hi>it will speak in the end, and not lie:</hi> Gods promises speak at first, when they are made; and speak again in the end, when performed. They speak not as the heathen <hi>Oracles,</hi> promising suc<g ref="char:EOLhyphen"/>cesse in doubtfull termes, and leaving the hearer at great uncertainty; but plainly, expressely to the under<g ref="char:EOLhyphen"/>standing and comfort of the distressed Soul: You can<g ref="char:EOLhyphen"/>not open this Book of God but you meet with promi<g ref="char:EOLhyphen"/>ses to this purpose, answers from the divine Oracle, and
+<pb n="12" facs="tcp:116986:9"/>so plainly, that <hi>he that runs may read.</hi> To dis-ingage this Truth, the Vision, or the promised deliverance <hi>will speak in the end,</hi> when it comes to performance; yea, though it speak <hi>by the mouth of babes and sucklings,</hi> (as <hi>Psal.</hi> 8.) by weak and unexpected meanes.</p>
+            <p>And I am perswaded <hi>it will in the end speak</hi> after that manner: so that neither wisdome or power of man, or arme of flesh, (upon which perhaps we have too much cast our eyes) shall challenge any praise in it. Our weaknesse, our despised and seemingly lost condition, will be no hindrance to him that has ingaged his truth and justice for the performance, <hi>It will surely come.</hi>
+            </p>
+            <p>And now, if ask for a Prophet to tell you (as <hi>Psal</hi> 74.9.) <hi>Us{que} quo?</hi> how long will it be ere <hi>it come?</hi> it fol<g ref="char:EOLhyphen"/>lowes for satisfaction, it <hi>will not tarry,</hi> it will come surely, it will come seasonably, that was the second part in this Assurance. More in this, then in the former <hi>Tarry,</hi> there it was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>si moram fecerit,</hi> though some daies and years be spent ere it come, though to our sense it seem to <hi>tarry,</hi> yet it will not <hi>tarry,</hi> here it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>non tardabit,</hi> not come after, not after the time appointed by God, not <hi>tarry</hi> beyond that; not after the time it is fit for us, or we fit for it, not <hi>tarry</hi> beyond that.</p>
+            <p>First, not after the time appointed; it was said be<g ref="char:EOLhyphen"/>fore, the Vision (which gave sight of the future perfor<g ref="char:EOLhyphen"/>mance) was <hi>for an appointed time,</hi> and with respect to this all-disposing wisdome and power; the Psalmist saith,
+<note place="margin">Psal. 31.15.</note>
+               <hi>My times are in thy hand; Tempora mea,</hi> in the plurall, my time of life, and hour of death; my years of prosperity, and dayes of adversity, in thy hand to dispose of.
+<note place="margin">Psal. 77.10.</note> The <hi>times (or the changes) of the right hand of the most high; And he sets them one against another,</hi>
+               <pb n="13" facs="tcp:116986:9"/>saith the Preacher of the vicissitude of prosperity and adver<g ref="char:EOLhyphen"/>sity, <hi>Eccles.</hi> 7.14. And should he do it in equall proportion, making the time of adversity as long as we have seen good dayes; should he so appoint the time, we had not cause to complaine, he were unjust, or <hi>tarryed</hi> beyond the time. Or should he <hi>set them one against another,</hi> by way of requitall to our former provocations, and lengthen out the time of our sufferings according to the years of our abused peace and plenty, when he has called, and we not answered, he has <hi>tarried</hi> for our return, and we run on our course of sin and pleasure, should he so appoint the time, we had not cause to complain or think <hi>he tarried</hi> beyond his time: How much lesse, when he appoints the time in wisdome, as he sees fit; and we must give him, that made us, leave to know what is best for us, and not think he tarryes beyond due time, if de<g ref="char:EOLhyphen"/>liver us not, when we desire it.</p>
+            <p>
+               <hi>The Lord is not slack in his promise, as some men count slack<g ref="char:EOLhyphen"/>nesse,</hi>
+               <note place="margin">2 Pet. 3.9.</note> (saith St. <hi>Peter) for a thousand yeares with him are but as one day, and one day as a thousand years;</hi> &amp; this, not only in regard of his eternity, to the infinitenesse of which, a thou<g ref="char:EOLhyphen"/>sand years are but as a Moment; as we say the earth (though conteining thousands of miles in the circuit) is but as a point of the immense expansion of the heavens: nor yet so much, because of the coexistence of eternity, with every change of time, w<seg rend="sup">ch</seg>
+               <hi>Aquinas</hi> would demonstrate by a circle,
+<note place="margin">
+                  <hi>Contra Gentiles, lib.</hi> 5.</note> whose center he makes Eternity and Circumference, the extent of time: that as frō every point in the Circumference you may draw lines to the Center, and those lines long or short, do equally meet there; so draw the lines of time never so long or short, the point of Eternity equally receives them. Such notions are too scholastick, too aiery to afford us the solid comfort &amp; in<g ref="char:EOLhyphen"/>struction of St. <hi>Peters</hi> reason: We must take, as I conceive, our satisfaction from the point in hand, that if the Lord set a thousand years for the fulfilling of one promise, and but a moneth or a day for another, he can be said to be <hi>slack,</hi> or
+<pb n="14" facs="tcp:116986:10"/>
+               <hi>tarry,</hi> no more in the performance of the one, then of the o<g ref="char:EOLhyphen"/>ther: both of them succeeding according to his appointment.</p>
+            <p>And this especially, seeing the revolutions and changes of times are of his appointment, not meerly out of his ab<g ref="char:EOLhyphen"/>solute will and pleasure, but out of great wisdome, and upon good reason. As here, it is not <hi>slacknesse,</hi> saith St. <hi>Peter,</hi> but <hi>long suffering,</hi> and the longer it was, with respect to Man, that <hi>none might perish, but all come to repentance;</hi> and so prepared for his <hi>comming:</hi> And if the time of our ex<g ref="char:EOLhyphen"/>pected deliverance seeme to <hi>tarry,</hi> if long ere it comes, its of his appointment, as you heard, and with respect to us; that being converted and amended, we may be fit, and prepared for his appearing in our deliverance: And therefore it is not a <hi>slacknesse,</hi> or needlesse <hi>tarrying,</hi> but a continuance of ne<g ref="char:EOLhyphen"/>cessary discipline, till we have learned what it is to order our wayes aright, and so are made fit for a deliverance, which is the second consideration of this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>not tarry,</hi> or come after the time we are fit for it.</p>
+            <p>He that in the work of creation made all things in due proportion for <hi>number, weight,</hi> and <hi>measure;</hi> doth so, and more, in works of the Judgment &amp; Correction; weighting out, and measuring the proportion, not only by the scale of wisdome, as in the creation, but by the ballance of Justice too; apportioneth the weight of affliction, and the length of the time, with respect to our continuance in Sin. Punishment, or chastisement for Sin, looks first at sins past, the greatnesse of them, and the years or time spent in them: then at our present condition, whether we are made sensible, and suffi<g ref="char:EOLhyphen"/>ciently humbled. Lastly, at our disposition for the future, whether prepared, and firmly resolved for obedience in time to come. Now see the proportion; He usually appoints the weight of the affliction, according to former provocations and sins past, but the length, and continuance of our suffe<g ref="char:EOLhyphen"/>rings according to the effect they have upon us, for humili<g ref="char:EOLhyphen"/>ation and obedience.</p>
+            <pb n="15" facs="tcp:116986:10"/>
+            <p>All the Comminations we hear denounced against a sinfull people, and all the promises we find made to an afflicted Nation, speak thus much, that repentance and amendment is the condition of removing the Judgment, as it is the end for which be afflicts it. And if so, then surely will he not cease till he has his end upon us,
+<note place="margin">Amos 3.5.</note>
+               <hi>for will a man take up a snare</hi> (saith the Prophet) <hi>having caught nothing?</hi> and will the Lord take off his rod till it has wrought upon us?</p>
+            <p>For the continuance of the rod, see a reason, <hi>Isay</hi> 9.12. <hi>they returned not to him that had smitten them, therefore his arme was stretched out still:</hi> And for the removall of the rod, <hi>Isay</hi> 10.5. <hi>Assur was the rod of his</hi> anger, for the chastising of his people, <hi>but when he had performed his whole work upon Mount Sion, Verse</hi> 12. then he takes off the rod, and layes it upon the <hi>Assyrian.</hi> Upon his and their Enemies will it be, <hi>virga non removenda, a grounded Rod,</hi> as another Prophet calls it, a rod not to be taken off from rebellious and obstinate Sin<g ref="char:EOLhyphen"/>ners. Or take we affliction in that other similitude of a fur<g ref="char:EOLhyphen"/>nace, to purge away our drosse and corruption; We see the Lord <hi>sitting as a Refiner,</hi> to moderate the fire,
+<note place="margin">Mal. 3.3.</note> both for the heat, and continuance of it, not suffering his pretious mettall to be longer in the Furance then is meet.</p>
+            <p>But what then meanes that <hi>duplum</hi> of punishment? <hi>Isay</hi> 40.2. <hi>She hath received double for all her sinnes:</hi> As in recei<g ref="char:EOLhyphen"/>ving of reward, there is no <hi>duplum</hi> or exceeding in the merit, no supererogation on our part: so in the receiving of cor<g ref="char:EOLhyphen"/>rection no <hi>duplum</hi> or <hi>doubling</hi> of the punishment above the desert of sin. In the point of reward, man cannot take God with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that he is behind hand with him in the recom<g ref="char:EOLhyphen"/>pence; and in the businesse of correction, man shall finde that upon his amendment, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, God will not be behind hand with a deliverance. That <hi>double received for all her sinnes,</hi> if it be not meant of the abundant grace and favour wherewith God embraced his people after he had plagued them (as some will have it) but of the punishment, they had
+<pb n="16" facs="tcp:116986:11"/>suffered (as I rather conceive) then doth it not imply a pro<g ref="char:EOLhyphen"/>portion to the desert of sinnes past, but signifies the abun<g ref="char:EOLhyphen"/>dant Correction they had received, and that <hi>double;</hi> not to what they had deserved, but to what would have been, had they sooner repented; if they had speedily broken off the course of their sins, the time of their sufferings had been so much shorter.</p>
+            <p>And let not any of us (how eager soever in our desire of ease and deliverance) think we have received at Gods hands after that measure, <hi>double for our sinnes,</hi> we may thank our selves if the time of our sufferings has been double, to what it might have been if we had been sooner corrected and a<g ref="char:EOLhyphen"/>mended. <hi>I should soon have put down their Enemies,</hi> saith God, <hi>Psal.</hi> 81. It should not have <hi>tarryed</hi> on his part, the failing has been on ours.
+<note place="margin">Psal. 74.9.</note> And therefore, if any will be still asking how <hi>soon?</hi> or (as they that in the Psalmist complained they saw no tokens of it, had no Prophet to tell them) how long?
+<note place="margin">Luk. 17.20</note> I must answer them as our Saviour did the <hi>Pharisees,</hi> demanding <hi>when the Kingdome of God would come,</hi> and requi<g ref="char:EOLhyphen"/>ring a signe; He tells them, <hi>it comes not with observation:</hi> Not with the outward shew of worldly Pomp and Glory, <hi>but the Kingdome of God is within you,</hi> there you must look for it, and know the comming of it, by those beginnings of grace wrought in you.</p>
+            <p>So neither doth deliverance <hi>come with observation;</hi> Such observation as is made upon outward meanes, numerous Armes, present Successe, (from which we have been too ready to conclude of the end) but such as is taken from with<g ref="char:EOLhyphen"/>in; The judgement of it must be taken from your selves. Do you find your hearts humbled within you, cast down in the sense of former provocations? <hi>then lift up your heads, for your redemption draweth nigh.</hi> Are your hearts turned within you?
+<note place="margin">Ier. 30.21.</note> then look for a conversation of things, a change of time. Have you <hi>engaged your hearts</hi> (as the Prophet saith) <hi>to approach to the Lord,</hi> to <hi>wait</hi> upon him, as in the expectation of his
+<pb n="17" facs="tcp:116986:11"/>good time, so in a course of after obedience? then know he will engage his holy arme for your deliverance,
+<note place="margin">Isay 52.10</note>
+               <hi>it will not tarry</hi> after that time, yea, he will <hi>make bare his holy Arme</hi> for it, (as the Prophet speaks) shew it from heaven, divested of all outward humane helps and assistance, do the work himself.</p>
+            <p>And now, before we seal up the comforts of this Assu<g ref="char:EOLhyphen"/>rance, we must remove a double scruple, that may disquiet it. For if we apply what has been spoken of nationall Cala<g ref="char:EOLhyphen"/>mities and Deliverances (upon which the Text proceeds) to particular men, we find, that wicked mē, who remain unamen<g ref="char:EOLhyphen"/>ded, enjoy the benefit of such a national Deliverance, &amp; many righteous men swept away, or cut off by death, see not the pro<g ref="char:EOLhyphen"/>mised redemption. The one may seeme to question the neces<g ref="char:EOLhyphen"/>sity of our performing the condition of amendment, the other to weaken the certainty of Gods performing the promise.</p>
+            <p>True it is indeed, that righteous men are often involved in the punishment of a sinfull Nation, faring worse for those about them; and men still continuing wicked, meet with a Deliverance, faring better for those, that by Repentance, and turning from their evill wayes, have turned away the wrath of God from a Nation. As to the outward man, it often happens (as Saint <hi>Austin</hi> said) <hi>Malis bene, Bonis malè:</hi> yet not that to the true advantage of those, nor this to the dis<g ref="char:EOLhyphen"/>advantage of these.</p>
+            <p>For first, see you in a Nationall Deliverance all partaking of the peace and benefit of it: He that by carnall security has <hi>drawn back</hi> from God, and continues uncorrected, as well as he, that in humiliation and amendment of life has <hi>waited</hi> upon God for the Del verance. Both of them indeed enjoy it, one with another, but not one as well as the other, not with that joy, comfort, and blessing from Him, that sends the Deliverance. Alas, their <hi>bed is shorter,
+<note place="margin">Isay 28.20</note> then that they can stretch themselves on it, and the covering narrower then that they can wrap themselves in it.</hi> The ease they have by such a Deliverance is too short, too narrow to afford a content that
+<pb n="18" facs="tcp:116986:12"/>may <hi>reach unto the soul.</hi> They may obtaine a temporall deliverance promiscuously with others, and that <hi>fide alienâ,</hi> but to receive and enjoy it with true content and comfort of the <hi>Vivet</hi> promised to the just man, <hi>Verse</hi> 4. it must be <hi>ex fide sua.</hi> So the Psalmist, <hi>My heart trusted in him, and I am hel<g ref="char:EOLhyphen"/>ped, therefore my heart greatly rejoyced, &amp;c.</hi> therefore rejoyced greatly, or danced for joy (as the other translation hath it) because it first trusted in him. A double motion of the heart, the first of Faith, which carryes it upon God for the help, the other of Joy, for the receiving it from him: not this truly and really without the former. Then is there true joy, and great joy upon a Deliverance, when it has been prayed for first, and <hi>waited</hi> for by faith and patience. He that would not <hi>waite</hi> any longer, 2 <hi>Kings</hi> 7.2. saw the promised Deli<g ref="char:EOLhyphen"/>verance, and plenty, but did not taste of it. And they that still <hi>draw back</hi> from God, if live to see the Deliverance, and taste of it, shall find it as the flesh of quailes in their mouthes, but <hi>Leannesse withall sent into their soul;</hi>
+               <note place="margin">Psal. 106.16.</note> which may pine away under all the affluence and abundance of an outward peace.</p>
+            <p>Take heed therefore,
+<note place="margin">Heb. 3.12.</note> lest there be in any of you, <hi>an evill heart of unbelief,</hi> in <hi>departing from the living God,</hi> an heart that casteth away all patience and care of well-doing; and yet causeth a man to <hi>blesse himself,</hi> saying, <hi>I shall have peace though I walk in the imagination of mine heart,
+<note place="margin">Deut. 29.19.</note> and adde drun<g ref="char:EOLhyphen"/>kennesse to thirst;</hi> I shall fare as others do in the common ca<g ref="char:EOLhyphen"/>lamity or deliverance.
+<note place="margin">Heb. 10.38</note> But as God declares, <hi>His soul will have no pleasure in those that draw back;</hi> so shall they find, their soul cannot have true pleasure in the Deliverance, he will bestow upon a repenting Nation. They may promis<g ref="char:EOLhyphen"/>cuously with others, be made partakers of it when it comes; but not enjoy it with that comfort, joy, and blessing, as they shall do, who so <hi>waite</hi> for it, as ye heard above.</p>
+            <p>For the Second: We see in common Calamities, righ<g ref="char:EOLhyphen"/>teous and good men overborne among the rest by the Vio<g ref="char:EOLhyphen"/>lence
+<pb n="19" facs="tcp:116986:12"/>of the <hi>overflowing scourge;</hi>
+               <note place="margin">Isay 14.22</note> and <hi>swept away</hi> with that <hi>besome of de<g ref="char:EOLhyphen"/>struction,</hi> wherewith the Lord sometimes cleanseth a Land. As to the outward man indeed, they often bear a part in the common sufferings with that People or Community, of which they are a part; but then consider that in these generall calamities a speciall hand of providence is over such for their comfort and preservation. Every particular just man hath his assurance for a <hi>Vivet,</hi> till the deliverance come; the promise of it is not far from this Text, the <hi>just shall live by his faith:</hi> Live comfortably, live safely, even during the present distresse. Yea, when such are cast out into a forraigne Land,
+<note place="margin">Ezek. 11.16.</note>
+               <hi>I will be to them</hi> (saith the Lord) <hi>a little Sanctuary;</hi> or an hiding place, to which they may still retire for refreshment and protection. <hi>And in the day when he makes up his Jewels,</hi> they are remembred, <hi>Mal.</hi> 3.17. as out of the sweepings of our house we gather ends of Gold or Silver, or what is pretious, casting out the rest to be trod to mire in the streets: so shall he gather his Jewels, or pretious ones out of the common filth and dust, which <hi>the besome of destruction</hi> has hurried out. There is a <hi>Vivet</hi> for the just man, a speciall care and provision for his subsistence and comfort till a generall Deliverance of the Nation come.</p>
+            <p>Nay, but if that Deliverance <hi>tarry</hi> so long, that he be cut off by death before he sees it, how will this promise of a <hi>Vivet,</hi> or a <hi>non tardadit</hi> be made good unto him?</p>
+            <p>We must know, that Temporall promises are not alwayes made good in the same kind, and he that has not faith to look beyond the very thing assured by them, may misse of his desire and expectation: being like to him that fights a battell without a Reserve; if his first strength be defeated, he's utterly broken.
+<note place="margin">Rom. 4.18</note> But he that <hi>against hope can believe in hope,</hi> when his first hope (which rests upon outward Visible meanes, and expects a temporall deliverance) failes, has a Reserve, an hope <hi>sure and stedfast, which entreth into that within the vail.</hi>
+               <note place="margin">Heb. 6.19.</note> He knowes, and shall find, if the promise of a temporall blessing or De<g ref="char:EOLhyphen"/>liverance be not made good to him in the same kinde, it will in a bet<g ref="char:EOLhyphen"/>ter, nothing at all to his losse or disadvantage: To them that <hi>left Houses and Lands, &amp;c.</hi> for Christs sake, Houses and Lands,
+<note place="margin">Mar. 10.30</note> and an hun<g ref="char:EOLhyphen"/>dred fold more were promised in this life, not in the same kind surely. We know they did not, they could not receive them so; for they were to receive them (as it is there added) <hi>with persecutions,</hi> which would drive them from Houses and Lands. It was therefore further made good unto them, by their receiving that inestimable treasure of the Gospel, which would replenish their hearts with such joy and content, that they would not part with it for an hundred times as much as they
+<pb n="20" facs="tcp:116986:13"/>had forsaken. This hundred-fold in this life they should enjoy till they were put into possession of that Kingdom which infinitely transcends all earthly advantages <hi>Adeò satis idoneus Patientiae sequester Deus</hi> (saith <hi>Tertul.</hi>) so sure a Trustee is God, so able to restore what is laid up for the reward of Patience and Innocency. And thus is it with every righteous man, <hi>that waits,</hi> and is cut off by death before he sees the wish'd-for Nationall deliverance; a <hi>justus Vivet,</hi> made good to him even in death it self, he has then his deliverance though the Nation has not; so far is it from <hi>tarrying,</hi> in regard of his particular, that it comes sooner then was expected, and after a better way, then that of an out<g ref="char:EOLhyphen"/>ward temporall deliverance. For he is taken from the evill present, and to come, as good <hi>Josiah</hi> cut off in his prime by the enemies Sword, and what is denied him in this life, is made good in a better, and for a temporall outward peace expected, presently enjoyes an heavenly, and eternall.
+<note place="margin">1 Pet. 5.4. Heb. 12.28</note> So that Majesty it self cannot lose by such a change, when as the next life affords <hi>A Crown of glory that cannot fade away, a Kingdom that cannot be moved.</hi>
+            </p>
+            <p>To conclude, thus stands the assurance of this promise, <hi>non tardabit, it will not tarry.</hi> To every just man, though cut off before he see the nationall Deliverance, there is a <hi>Vivet</hi> in death it self, which is not a <hi>tarrying,</hi> but an hastening of his Deliverance. And to a whole Nation, upon their remarkable, and more generall repentance and amendment, there is a Deliverance assured: <hi>It will not tarry</hi> after they are so fitted for it. Thus, when he has wrought his work of Chastisement upon this Land, as he <hi>did upon Mount Sion, Isay</hi> 70. (oh may he hasten it, by our speedy and more generall amendment!) then will he turn his hand against every adversary, <hi>will punish the fruit of the stout heart</hi> of all violent men,
+<note place="margin">Psal. 9. <hi>ult.</hi>
+               </note> will <hi>put them in fear, that they may know themselves to be but men,</hi> and how vaine all their thoughts and purposes have been.</p>
+            <p>Then shall all that waite for the Salvation of our God, hear him say,
+<note place="margin">Zech. 9.12 Esay 40.1.</note>
+               <hi>Turne ye Prisoners of hope,</hi> and <hi>comfort ye, comfort ye my people, speak comfortably to Jerusalem, tell her, her warfare is accomplished.</hi> And we shall with comfort say,
+<note place="margin">Esay 25.9.</note>
+               <hi>Loe, this is our God, we have waited for him, and he hath saved us; this is the Lord, we have waited for him, and will rejoyce in his salvation.</hi>
+               <note place="margin">Psal. 70.5, 6.</note> Even so, O Lord, <hi>haste thee unto us; thou art our helper and Redeemer, make no long tarrying O our God:</hi> Haste thee to the help of thine Anointed, and of thy People of this Church, and of this Kingdome;
+<note place="margin">Psal. 77. <hi>ult.</hi>
+               </note> and <hi>lead thy people againe like a flock, by the hand of Moses and Aaron.</hi> We beg it for Jesus Christ his sake, who bore the chastisement of our peace, to whom with thee O Father, together with the blessed Spirit, be all Honour, Dominion, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
